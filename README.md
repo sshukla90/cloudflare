@@ -1,10 +1,3 @@
-Perfect 👍
-Below is the **entire thing in pure Markdown**, ready to **copy-paste directly into `README.md` in VS Code** and push to GitHub.
-No formatting tricks, no platform-specific markup — just clean, standard Markdown.
-
----
-
-```markdown
 # Cloudflare Lab — WSL as Origin (FastAPI + Cloudflare Tunnel)
 
 This repository documents how to set up a **local WSL machine as a private origin**
